@@ -2,6 +2,9 @@
 .gradle/
 build/
 
+# manually inserted
+!gradle/wrapper/gradle-wrapper.jar
+
 # Local configuration file (sdk path, etc)
 local.properties
 
